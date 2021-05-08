@@ -1,8 +1,7 @@
-# shazam_flutter
+# Muzico-Music Recognition App
 
-A Shazam clone built in Flutter
-
-## Video
+A Music Recognition App similar to Shazam built in Flutter using ACR-Cloud Console and Deezer API.
 
 
-- [Build a Shazam Clone in Flutter using ACRCloud and Riverpod](https://www.youtube.com/watch?v=u2CsZnHMhmY)
+
+
